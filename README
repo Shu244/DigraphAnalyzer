@@ -1,0 +1,10 @@
+My name is Shuhao Lai.
+My JHED is slai16.
+For my program, I focused a lot on readibility over functionality; however, I did aadbandon optimization.
+As I worked along the program, I just added a method for sections of code I believe could be applicable to other programs.
+I also tried to generalized my functions. For example, in my string_to_nums function, I made it take care of cases for when
+the arugment is not really a num, but also contains letters. I also made it take care of negative numbers. I thought the sort methods
+were the hardest because they were the most new to me. I originally attempted to sort a map, but then I realized that maps
+don't really have an order as they do not have indexes. This is why I decided to use a vector<pair> for most of the program. Lastly,
+I tried to make my program as robust as possible, which means handling negative numbers, invalid arguments, and much more. Overall I enjoyed
+this programming assignment.
